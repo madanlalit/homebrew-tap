@@ -4,8 +4,8 @@
 class NoMouse < Formula
   desc "Keyboard-driven mouse control for macOS"
   homepage "https://github.com/madanlalit/no-mouse"
-  url "https://github.com/madanlalit/no-mouse/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "da6c66814d3d4293bac48dd063843b619b4048b07dfc324d117b283fbe8fd755"
+  url "https://github.com/madanlalit/no-mouse/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "56d940e8c1d9cc04bcac997b7d4680d39275e345f7a1aa41181bd27db50e2832"
   license "MIT"
 
   depends_on macos: :ventura
