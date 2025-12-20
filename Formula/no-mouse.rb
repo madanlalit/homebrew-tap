@@ -8,7 +8,6 @@ class NoMouse < Formula
   sha256 "da6c66814d3d4293bac48dd063843b619b4048b07dfc324d117b283fbe8fd755"
   license "MIT"
 
-  depends_on xcode: ["14.0", :build]
   depends_on macos: :ventura
 
   def install
